@@ -5,3 +5,9 @@ body{
 #title{
   text-align: center; height: 70px;
 }
+
+#banner_area{
+  background-image:url(flat\ earth\ image.webp);
+  width: 623px; height: 245px;
+  margin-right: auto; margin-left: auto;
+}
