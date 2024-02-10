@@ -3,11 +3,11 @@ body{
   width: 50%; 
   margin-right: auto; margin-left: auto;
   background-color: black;
-  padding-left: 20px;
 }
 
 .main_text_area{
   background-color: rgb(166, 166, 194);
+  padding-left: 10px; padding-right: 10px; padding-top: 5px; padding-bottom: 5px;
 }
 
 #title{
