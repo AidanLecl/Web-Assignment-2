@@ -36,7 +36,7 @@ a:hover{
 }
 
 #copyright_text{
-  position: absolute;
+  position: sticky;
   bottom: 10px;
   width: 49%; height: 30px;
   line-height: 40px;
