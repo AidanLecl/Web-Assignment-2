@@ -2,7 +2,7 @@ body{
   font-family: Verdana, sans-serif; 
   width: 50%; 
   margin-right: auto; margin-left: auto;
-  background-color: black;
+  background-color: rgb(31, 31, 31);
 }
 
 .main_text_area{
@@ -18,4 +18,8 @@ body{
   background-image:url(flat\ earth\ image.webp);
   width: 623px; height: 245px;
   margin-right: auto; margin-left: auto;
+}
+
+#banner_seperator{
+  padding-top: 20px;
 }
