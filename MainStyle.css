@@ -34,3 +34,10 @@ a:hover{
 #banner_seperator{
   padding-top: 20px;
 }
+
+#copyright_text{
+  position: absolute;
+  bottom: 10px;
+  width: 49%; height: 30px;
+  line-height: 40px;
+}
