@@ -1,5 +1,13 @@
 body{
-  font-family: Verdana, sans-serif; width: 50%; margin-right: auto; margin-left: auto;
+  font-family: Verdana, sans-serif; 
+  width: 50%; 
+  margin-right: auto; margin-left: auto;
+  background-color: black;
+  padding-left: 20px;
+}
+
+.main_text_area{
+  background-color: rgb(166, 166, 194);
 }
 
 #title{
